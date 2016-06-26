@@ -1,3 +1,6 @@
+#Merged versions of Timezone and Time libraries
+Danny Backx, June 2016
+
 #Arduino Timezone Library v1.0
 https://github.com/JChristensen/Timezone  
 ReadMe file  
